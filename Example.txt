@@ -1,0 +1,8 @@
+local lib = loadstring(game:HttpGet("https://pastebin.com/raw/KfwXQLrZ"))()
+main = lib:Window()
+CombatW = main:Tab('Combat')
+PlayerW = main:Tab('LocalPlayer')
+ServerW = main:Tab('Trolling')
+VisualsW = main:Tab('Visuals')
+FarmingW = main:Tab('Farming')
+MiscW = main:Tab('Misc')
